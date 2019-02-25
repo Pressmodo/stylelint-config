@@ -1,0 +1,44 @@
+{
+    "name": "pressmodo/stylelint-config",
+    "version": "0.1.0",
+    "description": "Pressmodo stylelint config for WordPress projects",
+    "main": "index.js",
+    "homepage": "https://github.com/pressmodo/stylelint-config#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pressmodo/stylelint-config.git"
+    },
+    "keywords": [
+        "stylelint",
+        "stylelint-config",
+        "wordpress",
+        "coding-standards",
+        "pressmodo"
+    ],
+    "peerDependencies": {
+        "stylelint": "^9.5.0"
+    },
+    "files": [
+        "index.js"
+    ],
+    "author": {
+        "name": "Pressmodo",
+        "email": "hello@pressmodo.com",
+        "url": "https://pressmodo.com",
+        "role": "developer"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/pressmodo/stylelint-config/issues"
+    },
+    "engineStrict": true,
+    "engines": {
+        "node": "~8.11"
+    },
+    "devDependencies": {
+        "stylelint": "^9.5.0",
+        "stylelint-config-wordpress": "^13.1.0",
+        "stylelint-declaration-use-variable": "^1.7.0",
+        "stylelint-order": "^1.0.0"
+    }
+}
