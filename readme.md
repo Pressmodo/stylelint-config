@@ -17,7 +17,7 @@ First, install Stylelint:
 npm install stylelint --save-dev
 
 // Yarn
-yarn add stylelint
+yarn add stylelint --dev
 ```
 
 Then install the Pressmodo Stylelint config:
