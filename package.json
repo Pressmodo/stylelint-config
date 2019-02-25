@@ -31,10 +31,6 @@
     "bugs": {
         "url": "https://github.com/pressmodo/stylelint-config/issues"
     },
-    "engineStrict": true,
-    "engines": {
-        "node": "~8.11"
-    },
     "devDependencies": {
         "stylelint": "^9.5.0",
         "stylelint-config-wordpress": "^13.1.0",
