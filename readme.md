@@ -24,7 +24,7 @@ Then install the Pressmodo Stylelint config:
 
 ```
 // NPM
-npm install pressmodo/stylelint-config --save-dev
+npm install @pressmodo/stylelint-config --save-dev
 ```
 
 ## Usage
@@ -34,7 +34,7 @@ Add the following to your `.stylelintrc` file:
 ```js
 {
   "plugins": [
-    "pressmodo/stylelint-config"
+    "@pressmodo/stylelint-config"
   ]
 }
 

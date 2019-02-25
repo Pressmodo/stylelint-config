@@ -1,5 +1,5 @@
 {
-    "name": "pressmodo/stylelint-config",
+    "name": "@pressmodo/stylelint-config",
     "version": "0.1.0",
     "description": "Pressmodo stylelint config for WordPress projects",
     "main": "index.js",
